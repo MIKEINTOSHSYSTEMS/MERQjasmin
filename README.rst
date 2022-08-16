@@ -1,6 +1,6 @@
-.. image:: https://raw.githubusercontent.com/jookies/jasmin/master/misc/doc/sources/_static/jasmin-logo-small.png
 
-Jasmin - Open source SMS gateway
+
+MIKEINTOSHSMS - Open source SMS gateway
 ################################
 
 |contribs| |ubuntu-package| |redhat-package| |ci| |docker| |docs| |support|
@@ -115,3 +115,5 @@ Credits
     :alt: Github discussions
     :scale: 100%
     :target: https://github.com/jookies/jasmin/discussions
+    
+.. image:: https://raw.githubusercontent.com/jookies/jasmin/master/misc/doc/sources/_static/jasmin-logo-small.png
